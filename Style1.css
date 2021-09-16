@@ -1,0 +1,66 @@
+body {
+  margin: 15px;
+  background-color: rgb(164, 196, 226);
+  margin-top: -10px;
+}
+.spain {
+  height: 25px;
+  width: 30px;
+}
+.profile {
+  height: 70px;
+  width: 70px;
+  object-fit: cover;
+  margin: 3px;
+  border-radius: 35px;
+  float: left;
+  margin-right: 10px;
+  margin-top: -2px;
+  margin-bottom: 1px;
+}
+
+.text {
+  color: rgb(252, 252, 252);
+  box-shadow: 1px 1px 1px;
+  background-color: rgb(92, 149, 255);
+  font-family: cursive;
+  margin-top: -1px;
+  margin-bottom: -5px;
+}
+
+.texto2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 13px;
+  margin: 10px;
+}
+
+div {
+  text-align: justify;
+  background-color: white;
+  margin-top: -10px;
+  margin-bottom: -1px;
+}
+.shadowbox {
+  margin-left: 10px;
+  width: 9em;
+  border: rgb(251, 252, 253);
+  box-shadow: 1px 1px 1px rgb(250, 252, 251);
+  background-color: white;
+}
+.contentphoto {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  margin: 10px;
+  border-radius: 35px;
+  float: left;
+}
+.username {
+  font-weight: bold;
+  font-size: medium;
+  font-size: 13px;
+}
+.video {
+  width: 200px;
+}
